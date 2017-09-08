@@ -1,0 +1,11 @@
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\bin\Debug\Binary Tree.exe
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\bin\Debug\Binary Tree.exe.config
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\bin\Debug\Binary Tree.pdb
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\bin\Debug\Newtonsoft.Json.dll
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\bin\Debug\Newtonsoft.Json.xml
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\obj\Debug\Binary_Tree.Form1.resources
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\obj\Debug\Binary_Tree.Properties.Resources.resources
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csproj.GenerateResource.Cache
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\obj\Debug\Binary Tree.exe
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\obj\Debug\Binary Tree.pdb
+d:\users\sarmentopedro\documents\visual studio 2015\Projects\Binary Tree\Binary Tree\obj\Debug\Binary Tree.csprojResolveAssemblyReference.cache
